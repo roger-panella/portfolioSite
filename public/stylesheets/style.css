@@ -43,7 +43,7 @@ a {
 
 #name {
   font-size: 40%;
-  font-weight: italic;
+  font-weight: 200;
   display: block;
   margin: 0 auto;
   text-align: center;
@@ -72,5 +72,15 @@ a {
   width: 12%;
   margin-right: 10px;
   margin-top: 10px; }
+
+#work-div {
+  margin-top: 75px; }
+
+#about {
+  font-weight: 100;
+  font-size: 25px; }
+
+#about-div {
+  margin-top: 75px; }
 
 /*# sourceMappingURL=style.css.map */
