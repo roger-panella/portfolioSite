@@ -25,6 +25,9 @@ a {
 .nav-link {
   color: white; }
 
+.material-icons {
+  margin-bottom: 20px; }
+
 #header {
   background-color: #675c5a;
   margin: 0 -9999rem;
@@ -64,6 +67,10 @@ a {
   display: block;
   margin: 0 auto; }
 
+#specialist {
+  display: block;
+  margin: 0 auto; }
+
 #work-link {
   margin-left: 70px; }
 
@@ -81,6 +88,9 @@ a {
   font-size: 25px; }
 
 #about-div {
+  margin-top: 75px; }
+
+#specialist-row {
   margin-top: 75px; }
 
 /*# sourceMappingURL=style.css.map */
