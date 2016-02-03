@@ -7,16 +7,16 @@ body {
 html {
   overflow-x: hidden; }
 
-h2 {
-  font-size: 40%;
-  font-weight: 600;
-  display: block;
-  margin: 0 auto;
-  text-align: center;
-  width: 15%; }
-
 a {
   color: #00B7FF; }
+
+.nav-container {
+  text-align: center; }
+
+.basic-nav {
+  font-size: 20px;
+  display: inline-block;
+  margin-top: 80px; }
 
 #header {
   background-color: white;
@@ -32,6 +32,21 @@ a {
   display: block;
   height: 175px;
   border-radius: 100%;
+  margin: 0 auto; }
+
+#name {
+  font-size: 40%;
+  font-weight: 600;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 15%; }
+
+#work {
+  color: white;
+  font-size: 40px;
+  width: 80%;
+  display: block;
   margin: 0 auto; }
 
 /*# sourceMappingURL=style.css.map */
