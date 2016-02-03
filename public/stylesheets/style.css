@@ -1,7 +1,7 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: black;
+  background-color: white;
   overflow-x: hidden; }
 
 html {
@@ -11,20 +11,22 @@ a {
   color: #00B7FF; }
 
 .nav-container {
-  text-align: center; }
+  text-align: center;
+  color: white; }
 
 .basic-nav {
   margin-right: 35px;
   margin-left: 35px;
   font-size: 25px;
   display: inline-block;
-  margin-top: 80px; }
+  margin-top: 80px;
+  color: white; }
 
 .nav-link {
-  color: black; }
+  color: white; }
 
 #header {
-  background-color: white;
+  background-color: #675c5a;
   margin: 0 -9999rem;
   margin-top: -50px;
   padding: 0.25rem 9999rem;
@@ -45,7 +47,8 @@ a {
   display: block;
   margin: 0 auto;
   text-align: center;
-  width: 15%; }
+  width: 15%;
+  color: white; }
 
 #work {
   color: white;
