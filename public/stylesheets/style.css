@@ -112,6 +112,7 @@ a {
 
 #contact-heading {
   font-size: 30px;
-  margin-left: 5%; }
+  margin-left: 5%;
+  text-decoration: underline; }
 
 /*# sourceMappingURL=style.css.map */
