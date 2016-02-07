@@ -51,7 +51,8 @@ a {
   margin: 0 auto;
   text-align: center;
   width: 15%;
-  color: white; }
+  color: white;
+  font-family: "Roboto", sans-serif; }
 
 #work {
   color: white;
@@ -114,5 +115,17 @@ a {
   font-size: 30px;
   margin-left: 5%;
   text-decoration: underline; }
+
+#about-container {
+  width: 55%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+  font-weight: thin; }
+
+#about {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100; }
 
 /*# sourceMappingURL=style.css.map */
