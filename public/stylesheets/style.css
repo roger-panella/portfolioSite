@@ -20,10 +20,13 @@ a {
   font-size: 25px;
   display: inline-block;
   margin-top: 80px;
-  color: white; }
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100; }
 
 .nav-link {
-  color: white; }
+  color: white;
+  font-family: "Roboto", sans-serif; }
 
 .material-icons {
   margin-bottom: 20px; }
@@ -45,7 +48,7 @@ a {
   margin: 0 auto; }
 
 #name {
-  font-size: 40%;
+  font-size: 50%;
   font-weight: 200;
   display: block;
   margin: 0 auto;
@@ -107,14 +110,17 @@ a {
   color: black; }
 
 .contact-item {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
   font-size: 25px;
   margin-bottom: 10px;
   margin-left: 5%; }
 
 #contact-heading {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
   font-size: 30px;
-  margin-left: 5%;
-  text-decoration: underline; }
+  margin-left: 5%; }
 
 #about-container {
   width: 55%;
